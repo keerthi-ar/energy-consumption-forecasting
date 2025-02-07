@@ -73,6 +73,6 @@ pip install -r requirements.txt
 
 ### Run the Jupyter Notebook:
 ```bash
-jupyter notebook Energy_Consumption_Forecasting.ipynb
+jupyter notebook energy-consumption-forecasting.ipynb
 ```
 
